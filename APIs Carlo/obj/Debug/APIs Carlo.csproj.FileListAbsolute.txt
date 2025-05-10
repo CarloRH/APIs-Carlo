@@ -1,0 +1,14 @@
+C:\Users\carlo\OneDrive\Escritorio\Universidad\Progra 1\APIs Carlo\APIs Carlo\bin\Debug\APIs Carlo.exe.config
+C:\Users\carlo\OneDrive\Escritorio\Universidad\Progra 1\APIs Carlo\APIs Carlo\bin\Debug\APIs Carlo.exe
+C:\Users\carlo\OneDrive\Escritorio\Universidad\Progra 1\APIs Carlo\APIs Carlo\bin\Debug\APIs Carlo.pdb
+C:\Users\carlo\OneDrive\Escritorio\Universidad\Progra 1\APIs Carlo\APIs Carlo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\carlo\OneDrive\Escritorio\Universidad\Progra 1\APIs Carlo\APIs Carlo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\carlo\OneDrive\Escritorio\Universidad\Progra 1\APIs Carlo\APIs Carlo\obj\Debug\APIs Carlo.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Escritorio\Universidad\Progra 1\APIs Carlo\APIs Carlo\obj\Debug\APIs_Carlo.Form1.resources
+C:\Users\carlo\OneDrive\Escritorio\Universidad\Progra 1\APIs Carlo\APIs Carlo\obj\Debug\APIs_Carlo.Properties.Resources.resources
+C:\Users\carlo\OneDrive\Escritorio\Universidad\Progra 1\APIs Carlo\APIs Carlo\obj\Debug\APIs Carlo.csproj.GenerateResource.cache
+C:\Users\carlo\OneDrive\Escritorio\Universidad\Progra 1\APIs Carlo\APIs Carlo\obj\Debug\APIs Carlo.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\Universidad\Progra 1\APIs Carlo\APIs Carlo\obj\Debug\APIs Carlo.csproj.Up2Date
+C:\Users\carlo\OneDrive\Escritorio\Universidad\Progra 1\APIs Carlo\APIs Carlo\obj\Debug\APIs Carlo.exe
+C:\Users\carlo\OneDrive\Escritorio\Universidad\Progra 1\APIs Carlo\APIs Carlo\obj\Debug\APIs Carlo.pdb
+C:\Users\carlo\OneDrive\Escritorio\Universidad\Progra 1\APIs Carlo\APIs Carlo\obj\Debug\APIs_Carlo.Form2.resources
